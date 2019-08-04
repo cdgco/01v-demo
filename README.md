@@ -1,4 +1,4 @@
-# 01v-demo
+# Yamaha 01V Demos
 Mardi Gras / Vegas Mode Demo for the Yamaha 01v
 
 Simple python script to run a fader demo based on mardi gras / vegas mode over midi.

@@ -15,3 +15,7 @@ If using the python script, you must have [python](https://www.python.org/) and 
 2. The program will list a number of midi devices available, type the number you wish to use.
 3. The program will list a number of demo modes available, type the number you wish to use.
 4. Press Ctrl+C or exit the program to stop the demo.
+
+# Video
+
+[![Youtube Demo](https://img.youtube.com/vi/2sUqp6gTNmM/0.jpg)](https://www.youtube.com/watch?v=2sUqp6gTNmM)

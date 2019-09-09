@@ -1,4 +1,4 @@
-mport rtmidi
+import rtmidi
 import time
 import sys
 from os import system

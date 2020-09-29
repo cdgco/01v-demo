@@ -9,6 +9,8 @@ Either download the executable or the python script.
 
 If using the python script, you must have [python](https://www.python.org/) and [python-rtmidi](https://github.com/SpotlightKid/python-rtmidi) installed on your system.
 
+Connect your 01V to your PC over midi, turn on midi RX & TX over channel 1, initialize midi paramaters to 01v mode.
+
 # Usage
 
 1. Launch the program or script
